@@ -1,0 +1,14 @@
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw - 樂透開獎\bin\Debug\net6.0\hw - 樂透開獎.exe
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw - 樂透開獎\bin\Debug\net6.0\hw - 樂透開獎.deps.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw - 樂透開獎\bin\Debug\net6.0\hw - 樂透開獎.runtimeconfig.json
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw - 樂透開獎\bin\Debug\net6.0\hw - 樂透開獎.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw - 樂透開獎\bin\Debug\net6.0\hw - 樂透開獎.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw - 樂透開獎\obj\Debug\net6.0\hw - 樂透開獎.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw - 樂透開獎\obj\Debug\net6.0\hw - 樂透開獎.AssemblyInfoInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw - 樂透開獎\obj\Debug\net6.0\hw - 樂透開獎.AssemblyInfo.cs
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw - 樂透開獎\obj\Debug\net6.0\hw - 樂透開獎.csproj.CoreCompileInputs.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw - 樂透開獎\obj\Debug\net6.0\hw - 樂透開獎.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw - 樂透開獎\obj\Debug\net6.0\refint\hw - 樂透開獎.dll
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw - 樂透開獎\obj\Debug\net6.0\hw - 樂透開獎.pdb
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw - 樂透開獎\obj\Debug\net6.0\hw - 樂透開獎.genruntimeconfig.cache
+C:\Users\Chung\Desktop\C# Courses\C# homework\week6-hw-檔案處理\hw - 樂透開獎\obj\Debug\net6.0\ref\hw - 樂透開獎.dll

@@ -1,0 +1,10 @@
+Student1, 53
+Student2, 12
+Student3, 19
+Student4, 90
+Student5, 76
+Student6, 57
+Student7, 48
+Student8, 75
+Student9, 22
+Student10, 10
